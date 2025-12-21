@@ -39,10 +39,11 @@
 
 ### 🌐 Connect With Me
 
-- 🌍 Portfolio: https://sambhat-personalportfolio.netlify.app
+- 🌍 Portfolio: https://sumukhbhat-personalportfolio.netlify.app
 - 💼 LinkedIn: https://www.linkedin.com/in/sumukh-bhat-81820a338
 - 📧 Email: sumukhbhat.dev@gmail.com
 
 ---
 
 ⭐ _Always learning. Always improving._
+
