@@ -17,7 +17,7 @@
 ### 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,react,bootstrap" />
 </p>
 
 ---
@@ -46,4 +46,5 @@
 ---
 
 ⭐ _Always learning. Always improving._
+
 
