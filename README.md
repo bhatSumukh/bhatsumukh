@@ -1,23 +1,23 @@
-## Hi 👋 I'm Sumukh Bhat
+## Hi I'm Sumukh Bhat
 
-🎓 **BCA Student (2025)** | 💻 **Front-End Developer**  
+ **Front-End Developer** | **BCA Student (2025)**   
 📍 Udupi, Karnataka, India
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🌱 Currently learning **JavaScript** and improving front-end fundamentals
-- 🎨 Interested in **UI design, clean layouts & user experience**
-- 🧠 Building real projects to strengthen problem-solving skills
-- 🎯 Goal: **Front-End Internship (METI / Similar programs)**
+-  Currently learning **Nodejs** and improving backend fundamentals
+-  Interested in **UI design, clean layouts & user experience**
+-  Building real projects to strengthen problem-solving skills
+-  Goal: **Become a Full-Stack Developer with AI integration knowledege in web**
 
 ---
 
 ### 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,react,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,react,tailwind,nodejs,express," />
 </p>
 
 ---
