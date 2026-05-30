@@ -1,15 +1,81 @@
-# 💫 About Me:
-Building full-stack web applications using React, Node.js, Express, and MongoDB.<br>Open-source projects, web development projects, and innovative startup ideas.<br>Backend architecture, system design, and improving my DSA skills.<br>React, Node.js, Express.js, MongoDB, and Data Structures & Algorithms.<br>HTML, CSS, JavaScript, React, responsive web design, and beginner freelancing.<br>Built and deployed 10+ frontend projects, several full-stack projects, and a real-world event registration website while pursuing my BCA.
+```md
+# Hi I'm Sumukh Bhat
 
+**Full-Stack Developer | BCA Student**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bhat.sumukh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhat_sumukh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhatvsumukh) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/bhat_sumukh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bhat_sumukh_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@SamDevLog) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumukhbhat.dev@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+📍 Karnataka, India
 
 ---
-[![](https://komarev.com/ghpvc/?username=bhatSumukh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+- Currently learning **Data Structures & Algorithms**, **Node.js**, and backend development
+- Building full-stack web applications using **React, Node.js, Express, and MongoDB**
+- Interested in **UI design, clean layouts, user experience, and scalable backend systems**
+- Built and deployed **10+ frontend projects** and multiple full-stack applications
+- Developed a real-world **Event Registration Platform** for college events
+- Working on **StudNet**, a student-focused academic community platform
+- Goal: Become a **Full-Stack Software Engineer** and build impactful products
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,postman,vite" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### StudNet
+Student community platform for academic discussions, doubt solving, notes sharing, achievements, and collaborative learning.
+
+### Event Registration System
+Real-world web application built for managing registrations and participation in college events.
+
+### Portfolio Website
+Personal portfolio showcasing projects, skills, achievements, and development journey.
+
+### Weather App
+Real-time weather application using external APIs and responsive UI.
+
+👉 Check my pinned repositories for live demos and source code.
+
+---
+
+## 🎯 Current Focus
+
+- Data Structures & Algorithms
+- Full Stack Development
+- Backend Architecture
+- System Design Fundamentals
+- Open Source Contributions
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bhatSumukh&show_icons=true&theme=transparent" />
+</p>
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhatSumukh&layout=compact&theme=transparent" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 🌍 Portfolio: https://sumukhbhat-personalportfolio.netlify.app
+- 💼 LinkedIn: https://linkedin.com/in/bhatvsumukh
+- 📸 Instagram: https://instagram.com/bhat_sumukh_
+- 🐦 X (Twitter): https://x.com/bhat_sumukh_
+- 📧 Email: sumukhbhat.dev@gmail.com
+
+---
+
+⭐ *Building projects. Learning continuously. Documenting the journey.*
+```
