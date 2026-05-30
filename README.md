@@ -19,7 +19,7 @@ Built and deployed 10+ frontend projects, several full-stack projects, and a rea
 ### 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,bootstrap,nodejs,mongodb,expressjs,render,vercel,netlify,postman,git,github," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,bootstrap,nodejs,mongo,expressjs,render,vercel,netlify,postman,git,github," />
 </p>
 
 ---
