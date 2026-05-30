@@ -1,81 +1,50 @@
-```md
-# Hi I'm Sumukh Bhat
+## Hi I'm Sumukh Bhat
 
-**Full-Stack Developer | BCA Student**
-
-📍 Karnataka, India
+🎓 **BCA Student (2025)** | 💻 **Full Stack Developer**  
+📍  Karnataka, India
 
 ---
 
-## About Me
+### 🚀 About Me
 
-- Currently learning **Data Structures & Algorithms**, **Node.js**, and backend development
-- Building full-stack web applications using **React, Node.js, Express, and MongoDB**
-- Interested in **UI design, clean layouts, user experience, and scalable backend systems**
-- Built and deployed **10+ frontend projects** and multiple full-stack applications
-- Developed a real-world **Event Registration Platform** for college events
-- Working on **StudNet**, a student-focused academic community platform
-- Goal: Become a **Full-Stack Software Engineer** and build impactful products
+Building full-stack web applications using React, Node.js, Express, and MongoDB.<br>
+Open-source projects, web development projects, and innovative startup ideas.<br>
+Backend architecture, system design, and improving my DSA skills.<br>
+React, Node.js, Express.js, MongoDB, and Data Structures & Algorithms.<br>
+HTML, CSS, JavaScript, React, responsive web design, and beginner freelancing.<br>
+Built and deployed 10+ frontend projects, several full-stack projects, and a real-world event registration website while pursuing my BCA.
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,postman,vite" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,bootstrap,nodejs,mongodb,expressjs,render,vercel,netlify,postman,git,github," />
 </p>
 
 ---
 
-## 📌 Featured Projects
+### 📌 Featured Projects
 
-### StudNet
-Student community platform for academic discussions, doubt solving, notes sharing, achievements, and collaborative learning.
+- **StudNet**  
+  Student productivity app with habit tracking & local storage
 
-### Event Registration System
-Real-world web application built for managing registrations and participation in college events.
+- **Weather App**  
+  Real-time weather app using API & clean UI
 
-### Portfolio Website
-Personal portfolio showcasing projects, skills, achievements, and development journey.
+- **Personal Portfolio**  
+  Responsive portfolio built using HTML & CSS
 
-### Weather App
-Real-time weather application using external APIs and responsive UI.
-
-👉 Check my pinned repositories for live demos and source code.
+👉 Check pinned repositories for live demos & source code.
 
 ---
 
-## 🎯 Current Focus
-
-- Data Structures & Algorithms
-- Full Stack Development
-- Backend Architecture
-- System Design Fundamentals
-- Open Source Contributions
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bhatSumukh&show_icons=true&theme=transparent" />
-</p>
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhatSumukh&layout=compact&theme=transparent" />
-</p>
-
----
-
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 - 🌍 Portfolio: https://sumukhbhat-personalportfolio.netlify.app
-- 💼 LinkedIn: https://linkedin.com/in/bhatvsumukh
-- 📸 Instagram: https://instagram.com/bhat_sumukh_
-- 🐦 X (Twitter): https://x.com/bhat_sumukh_
+- 💼 LinkedIn: https://www.linkedin.com/in/bhatvsumukh
 - 📧 Email: sumukhbhat.dev@gmail.com
 
 ---
 
-⭐ *Building projects. Learning continuously. Documenting the journey.*
-```
+⭐ _Always learning. Always improving._
