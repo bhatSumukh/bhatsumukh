@@ -1,50 +1,18 @@
-## Hi I'm Sumukh Bhat
+# 💫 About Me:
+Building full-stack web applications using React, Node.js, Express, and MongoDB.<br>Open-source projects, web development projects, and innovative startup ideas.<br>Backend architecture, system design, and improving my DSA skills.<br>React, Node.js, Express.js, MongoDB, and Data Structures & Algorithms.<br>HTML, CSS, JavaScript, React, responsive web design, and beginner freelancing.<br>Built and deployed 10+ frontend projects, several full-stack projects, and a real-world event registration website while pursuing my BCA.
 
- **Front-End Developer** | **BCA Student (2025)**   
-📍 Udupi, Karnataka, India
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bhat.sumukh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhat_sumukh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhatvsumukh) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/bhat_sumukh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bhat_sumukh_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@SamDevLog) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumukhbhat.dev@gmail.com) 
 
-###  About Me
-
--  Currently learning **Nodejs** and improving backend fundamentals
--  Interested in **UI design, clean layouts & user experience**
--  Building real projects to strengthen problem-solving skills
--  Goal: **Become a Full-Stack Developer with AI integration knowledege in web**
-
----
-
-### 🛠 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,react,tailwind,nodejs,express," />
-</p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=bhatSumukh&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=bhatSumukh&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhatSumukh&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=bhatSumukh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📌 Featured Projects
-
-- **StudNet**  
-  Student productivity app with habit tracking & local storage
-
-- **Weather App**  
-  Real-time weather app using API & clean UI
-
-- **Personal Portfolio**  
-  Responsive portfolio built using HTML & CSS
-
-👉 Check pinned repositories for live demos & source code.
-
----
-
-### 🌐 Connect With Me
-
-- 🌍 Portfolio: https://sumukhbhat-personalportfolio.netlify.app
-- 💼 LinkedIn: https://www.linkedin.com/in/sumukh-bhat-81820a338
-- 📧 Email: sumukhbhat.dev@gmail.com
-
----
-
-⭐ _Always learning. Always improving._
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
